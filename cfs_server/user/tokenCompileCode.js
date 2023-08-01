@@ -1,0 +1,1 @@
+module.exports = 'Mola_22'
