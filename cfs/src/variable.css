@@ -1,0 +1,42 @@
+:root{
+    /* 主题一 */
+    /* 文字颜色 */
+    --theme_1_color: white;
+    /* 背景色 */
+    --theme_1_background: #393d49;
+    /* 边框色 */
+    --theme_1_border: rgb(150, 150, 150);
+    /* 浅主色 */
+    --theme_1_hover: rgba(113, 113, 113, 0.8);
+
+    /* 主题二 */
+    /* 文字颜色 */
+    --theme_2_color: black;
+    /* 背景色 */
+    --theme_2_background: rgb(200, 200, 200);
+    /* 边框色 */
+    --theme_2_border: #4d505b;
+    /* 浅主色 */
+    --theme_2_hover: #36383fa4;
+
+    /* 主题三 */
+    /* 文字颜色 */
+    --theme_3_color: rgb(0, 60,117);
+    /* 背景色 */
+    --theme_3_background: rgb(175, 208, 242);
+    /* 边框色 */
+    --theme_3_border: rgb(72, 105, 137);
+    /* 浅主色 */
+    --theme_3_hover: rgba(47, 68, 90, 0.8);
+
+
+    /* 用户登录注册界面 */
+    /* 背景色 */
+    --enter_background: rgb(250,248,244);
+    /* 文字颜色 */
+    --enter_color: rgb(139,175,86);
+    /* 边框颜色 */
+    --enter_border: rgb(139,175,86);
+    /* 浅主色 */
+    --enter_background_shallow: rgb(139,175,86,0.8);
+}
